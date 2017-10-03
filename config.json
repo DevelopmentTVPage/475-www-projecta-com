@@ -1,0 +1,15 @@
+{
+    "title": "project a",
+    "baseURL": "https:\/\/www.projecta.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758341",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "projecta.com"
+    }
+}
